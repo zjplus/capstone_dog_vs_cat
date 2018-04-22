@@ -43,6 +43,8 @@ nb_val_samples=1024
 ResNet50、InceptionV3、Xception、VGG16、VGG19
 导出特征向量耗时平均每个20~30分钟
 
+总共探索调整，花费时长大概在20小时
+
 ## 项目目录
 
 ```
