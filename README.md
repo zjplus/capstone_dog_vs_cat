@@ -43,14 +43,39 @@ nb_val_samples=1024
 ResNet50、InceptionV3、Xception、VGG16、VGG19
 导出特征向量耗时平均每个20~30分钟
 
+## 项目目录
+
+```
+.
+├── CapstoneReport.md                   [报告markdown]
+├── CapstoneReport.pdf                  [报告pdf]
+├── PetOrNot.jpeg
+├── README.bak.md
+├── README.md                           [readme]
+├── dlnd-tf-lab.yml                     [实验环境配置文件]
+├── dogvscat.png
+├── error_test                          [测试集里一些效果不好的文件]
+├── error_train                         [训练集里的一些不好的文件]
+├── media                               [md文件的图片]
+├── proposal.md                         [开题报告md]
+├── proposal.pdf                        [开题报告pdf]
+├── submission_file                     [提交kaggle的结果文件]
+├── tensorboard_log                     [训练的日志文件，供tensorboard可视化]
+├── train_model.py                      [Resnet50模型训练脚本]
+├── 机器学习纳米学位毕业项目--猫狗大战+优化版本.html
+├── 机器学习纳米学位毕业项目--猫狗大战+优化版.ipynb
+├── 机器学习纳米学位毕业项目--猫狗大战.html
+└── 机器学习纳米学位毕业项目--猫狗大战.ipynb
+```
+
 
 
 ## 提交检查
 
 * [x] 报告文件
-* [x]数据预处理代码（jupyter notebook）
-* [x]模型训练代码（jupyter notebook）
-* [x]notebook 导出的 html 文件
+* [x] 数据预处理代码（jupyter notebook）
+* [x] 模型训练代码（jupyter notebook）
+* [x] notebook 导出的 html 文件
 * [x] 包含使用的库，机器硬件，机器操作系统，训练时间等数据的 README 文档（建议使用 Markdown ）
 
 
